@@ -1,2 +1,2 @@
 # cv
-[Website link](https://sarav92.github.io/cv/)
+[link](https://github.com/SaraV92/cv/){:target="_blank"}
